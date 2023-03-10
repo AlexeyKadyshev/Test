@@ -34,4 +34,9 @@ Git - это одна из реализаций распределённых с�
 
 [Логотип Markdown](https://yandex.ru/images/search?from=tabbar&text=маркдаун%20картинка&family=yes&pos=12&img_url=http%3A%2F%2Fi.ytimg.com%2Fvi%2F_aANg3_U9Q0%2Fmaxresdefault.jpg&rpt=simage&lr=213)
 
-![Логотип MD](../%D0%9A%D0%B0%D0%B4%D1%8B%D1%88%D0%B5%D0%B2/md.jpg)
+
+![Логотип MD](../%D0%9A%D0%B0%D0%B4%D1%8B%D1%88%D0%B5%D0%B2/md.jpg)\
+Пройдите по ссылке, чтобы узнать как добавлять ссылки в Markdown
+
+
+[Добавление ссылок](https://translated.turbopages.org/proxy_u/en-ru.ru.10828b53-640b28f1-7da62480-74722d776562/https/itsfoss.com/markdown-links/)
