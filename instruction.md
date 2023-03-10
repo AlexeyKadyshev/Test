@@ -31,3 +31,7 @@ Git - это одна из реализаций распределённых с�
 
 ## Удаление веток
 Для удаления ветки ввести команду "git branch -d 'name branch'"
+
+
+
+[Логотип Markdown](https://yandex.ru/images/search?from=tabbar&text=маркдаун%20картинка&family=yes&pos=12&img_url=http%3A%2F%2Fi.ytimg.com%2Fvi%2F_aANg3_U9Q0%2Fmaxresdefault.jpg&rpt=simage&lr=213)
